@@ -1,0 +1,16 @@
+.home .search-city-name {
+  text-align: center;
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+.home .search-city-name input {
+  padding: 0.7rem 1.5rem;
+  font-size: 1.2rem;
+  border-radius: 25px;
+  border: 1px solid #ffffffcc;
+  background: #ffffff1a;
+  color: #f8f8f8;
+}
+.home .search-city-name input:focus {
+  outline: none;
+}
